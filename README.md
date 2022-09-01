@@ -8,3 +8,6 @@ Perkenalkan saya Hardhya Falah Priangga, Sekarang menjadi mahasiswa S1 prodi Geo
 - 🥅 Goals for 2022 : Pokoknya jadi lebih baik hehe
 - ⚡ Suka badminton dan tidur
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hardhya.falah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardhya-falah-35b5621a1/)
+
